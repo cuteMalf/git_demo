@@ -2,3 +2,4 @@ hello git!
 hello world!
 hot-fix branch
 github 全球最大的男性交友网站！
+clone reposity
